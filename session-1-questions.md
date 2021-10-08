@@ -1,0 +1,6 @@
+1.  Why have you decided to learn Git and GitHub? For control version
+
+2.  How do you plan to use GitHub in your classroom? For lab, I plan to
+    use GitHub
+
+
